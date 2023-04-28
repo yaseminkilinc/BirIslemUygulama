@@ -1,0 +1,17 @@
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\BirIslemUygulama.exe
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\BirIslemUygulama.deps.json
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\BirIslemUygulama.runtimeconfig.json
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\BirIslemUygulama.dll
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\BirIslemUygulama.pdb
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.csproj.AssemblyReference.cache
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.Form1.resources
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.csproj.GenerateResource.cache
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.AssemblyInfoInputs.cache
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.AssemblyInfo.cs
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.csproj.CoreCompileInputs.cache
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.dll
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\BirIslemUygulama.dll
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.pdb
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\BirIslemUygulama.genruntimeconfig.cache
+C:\Users\YASEMİN\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\BirIslemUygulama.dll
